@@ -1,0 +1,19 @@
+{
+  "name": "jetpack",
+  "displayName": "Jetpack",
+  "description": "A bundle of extensions for making developing Jetpack in VS Code a smoother experience.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.83.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [ 
+	"dbaeumer.vscode-eslint",
+	"obliviousharmony.vscode-php-codesniffer",
+	"bmewburn.vscode-intelephense-client",
+	"johnbillion.vscode-wordpress-hooks",
+	"xdebug.php-debug"
+  ]
+}
