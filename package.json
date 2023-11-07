@@ -3,6 +3,7 @@
   "displayName": "Jetpack Extension Pack",
   "description": "A bundle of extensions for making developing Jetpack in VS Code a smoother experience.",
   "publisher": "automattic",
+  "icon": "icon.png",
   "repository": "https://github.com/Automattic/jetpack-vscode-extension-pack",
   "version": "1.0.0",
   "engines": {
