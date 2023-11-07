@@ -17,6 +17,7 @@
 	"bmewburn.vscode-intelephense-client",
 	"johnbillion.vscode-wordpress-hooks",
 	"xdebug.php-debug",
-	"automattic.jetpack"
-  ]
+	"automattic.jetpack",
+	"esbenp.prettier-vscode"
+	]
 }
